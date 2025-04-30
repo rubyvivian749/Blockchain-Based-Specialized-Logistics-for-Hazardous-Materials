@@ -13,3 +13,7 @@ V
 &contracts/material-classification.clar,3/6/36f2ca50a5805cb30a034e0998d3e0dff50d7b27
 U
 %tests/material-classification.test.ts,3/0/3024db1a531fdefcb2d40403697f961a40b92440
+M
+contracts/route-approval.clar,c/c/cc3b3d45ebde6b643fdde6a94145bdb337f75280
+L
+tests/route-approval.test.ts,d/7/d7b2fd68c16f7260ed2c286ee65800938529c2aa
