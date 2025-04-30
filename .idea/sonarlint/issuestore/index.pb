@@ -9,3 +9,7 @@ R
 "tests/shipper-verification.test.ts,a/7/a7ed13b398ea6da39b3033e5b531547e6f561b75
 S
 #contracts/shipper-verification.clar,c/e/ce1cf259adeb63055adc553d4e124aa02b04e8b2
+V
+&contracts/material-classification.clar,3/6/36f2ca50a5805cb30a034e0998d3e0dff50d7b27
+U
+%tests/material-classification.test.ts,3/0/3024db1a531fdefcb2d40403697f961a40b92440
